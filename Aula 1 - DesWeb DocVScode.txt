@@ -1,0 +1,10 @@
+1 - VScode(https://code.visualstudio.com/docs)
+    IDE para desenvolvimento de diversas linguagens e aplicações em um só local, será utilizado durante toda a disciplina.
+
+2 - Python(https://docs.python.org/3/)
+    Linguagem de programção com o objetivos de criar projetos com uma escrita simplificada.
+
+3 - Github(https://docs.github.com/pt)
+    Local para compartilhamento, portifolio de projetos, linhas de código e interação entre pessoas da área.
+
+
